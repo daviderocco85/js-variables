@@ -13,3 +13,7 @@ The exercise solutions are located in the respective script.js files within the 
 1. [01-numbers](01-numbers/script.js)
 2. [02-strings](02-strings/script.js)
 3. [03-strings-bonus](03-strings-bonus/script.js)
+
+# Execution instructions
+
+Download the ZIP archive of the entire project from the Code button, launch any index.html file within the exercise directories in a web browser and inspect the execution output via DevTools, using the Console panel for runtime logging.
